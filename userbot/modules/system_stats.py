@@ -131,11 +131,11 @@ async def amireallyalive(on):
                      f"------------------------------------ \n"
                      f"User: {DEFAULTUSER} \n"
                      " \n\n"
-                     f"Creator: Mayur Karaniya \n"
+                     f"Editor: XinTact69 \n"
                      " \n\n"
-                     f"Owner: 3Cube TeKnoways \n"
+                     f"Team: LoosCrut \n"
                      " \n\n"
-                     f"Userbot: testuserbot "
+                     f"Userbot: {DEFAULTUSER} "
                      "`")    
 
 
