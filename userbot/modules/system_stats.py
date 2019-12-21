@@ -123,19 +123,19 @@ async def pipcheck(pip):
 async def amireallyalive(on):
     """ For .on command, check if the bot is running.  """
     await on.edit("`"
-                     "i am ON My Mastor \n\n"
+                     "i am ON My Master \n\n"
                      " \n\n"
-                     "botdo is ON \n\n"
+                     "Bot is ON \n\n"
                      f"Telethon version: {version.__version__} \n"
                      f"Python: {python_version()} \n"
                      f"------------------------------------ \n"
                      f"User: {DEFAULTUSER} \n"
                      " \n\n"
-                     f"Mod By : XinTact69 \n"
+                     f"Mod By : @XinTact \n"
                      " \n\n"
                      f"Team : AmbyarTEAM✅ \n"
                      " \n\n"
-                     f"UserBot : {DEFAULTUSER} "
+                     f"UserBot : Testuser "
                      "`")    
 
 
