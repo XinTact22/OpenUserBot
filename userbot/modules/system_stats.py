@@ -125,16 +125,14 @@ async def amireallyalive(on):
     await on.edit("`"
                      "i am ON My Master \n\n"
                      " \n\n"
-                     "Bot is ON \n\n"
+                     "Bot Mode ON \n\n"
                      f"Telethon version: {version.__version__} \n"
                      f"Python: {python_version()} \n"
                      f"------------------------------------ \n"
                      f"User: {DEFAULTUSER} \n"
-                     " \n\n"
-                     f"Mod By : @XinTact \n"
-                     " \n\n"
-                     f"Team : AmbyarTEAM✅ \n"
-                     " \n\n"
+
+                     "Mod By : @XinTact \n"
+                     "Team : AmbyarTEAM✅ \n"
                      f"UserBot : Testuser "
                      "`")    
 
